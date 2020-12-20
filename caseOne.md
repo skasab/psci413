@@ -1,6 +1,6 @@
 ---
 title: Case Study One
-layout: template
+layout: default
 filename: caseOne
 --- 
 
