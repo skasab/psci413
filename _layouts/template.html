@@ -19,7 +19,7 @@
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
           {% for page in site.pages %}
-          <a href={{ page.filename }}>{{ page.title }}</a>
+          <a href={{ page.filename }} class="btn">{{ page.title }}</a>
           {% endfor %}
 
           {% if site.show_downloads %}
