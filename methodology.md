@@ -28,10 +28,9 @@ All together, the final dataset consists of 3,385 contested state legislative el
 
 ¹ Klarner, Carl, 2018, "State Legislative Election Returns, 1967-2016: Restructured For Use", [https://doi.org/10.7910/DVN/DRSACA](https://doi.org/10.7910/DVN/DRSACA) , Harvard Dataverse, V1, UNF:6:hjXo+znmhZCoZ5P4cMo7Yw== [fileUNF]
 
-[Dr. Klarner](https://www.klarnerpolitics.org/) provided me with the dataset updated to the years 2017 and 2018. As I am a student, he also graciously provided it to me for free. 
+[Dr. Klarner](https://www.klarnerpolitics.org/) provided me with the dataset updated to the years 2017 and 2018. As I am a student, he also graciously provided it to me for free. As part of my agreement with him, I also cannot make the data public until he does.
 
 The dataset I used did not include Nebraska elections, as they are nonpartisan, or Louisiana elections, as they employ a unique jungle primary system. Thus, NE and LA are excluded from analysis. 
-
 <br/><br/>
 ² DailyKos, “Daily Kos Elections Statewide by LD (public),” 2020.
 [Link to Google Sheets](https://docs.google.com/spreadsheets/d/1YZRfFiCDBEYB7M18fDGLH8IrmyMQGdQKqpOu9lLvmdo/)
