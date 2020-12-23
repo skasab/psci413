@@ -36,9 +36,9 @@ Trump | > 10% Underperform |4|0.18
 
 The fact many Democrats were able to significantly overperform Clinton in Trump states, and also that many were able to substantially underperform her in strong blue states, is indicative that Presidential coattails do not explain all state legislative elections, and that some local issues still matter.
 
-In **Case Study One**, we'll take a look at the first case, that of downballot Democrats running ahead of Clinton in very Trumpy areas.
+In **Case Study One**, we'll take a look at the first case, that of a downballot Democrat running far ahead of Clinton in very Trumpy West Virginia.
 
-In **Case Study Two**, we'll examine the second case, that of legislative Democrats managing to run far behind their Presidential candidate in strong liberal areas. 
+In **Case Study Two**, we'll examine the second case, that of Republican who managed to outperform Trump by a great deal in true blue Connecticut.
 
 
 ¹ Maine split its electoral votes 3-1, but it is counted here as a Clinton state as she won statewide. 
