@@ -41,4 +41,8 @@ In **Case Study One**, we'll take a look at the first case, that of a downballot
 In **Case Study Two**, we'll examine the second case, that of Republican who managed to outperform Trump by a great deal in true blue Connecticut.
 
 
+### Works Cited & Notes
+
+Information on data collection can be found in the **Methodology** tab.
+
 ¹ Maine split its electoral votes 3-1, but it is counted here as a Clinton state as she won statewide. 
