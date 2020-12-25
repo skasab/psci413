@@ -4,8 +4,6 @@ layout: default
 filename: consequences
 --- 
 
-# ⁰¹²³⁴⁵⁶⁷⁸⁹
-
 # Consequences
 
 Although we've observed two **Exceptions** to the trend of state legislative elections being decided upon increasingly nationalized and polarized lines, it still holds fast that the process is accelerating quickly across the states; it is no wonder that such a rapid rise can have immense consequences for good government. 
@@ -20,6 +18,11 @@ This "three-party" system can be seen as an informal way to control for the cons
 
 This approach worked for a while, with the official nonpartisan nature of the body serving to tamp down partisan influence and promote good government. However, as one might expect, the legislature has "polarized rapidly within the past decade," with "parties overcoming institutions designed to eliminate them."⁴ Thus, another consequence of the nationalization of state legislative elections has been to introduce partisan gridlock into systems intended to flush out such happenings.
 
+A third consequence of the phenomenon is the increasing role of state legislatures in national issues, particularly electing federal lawmakers.
+
+A partisan state legislature can gerrymander House seats for their party. They can change the rules for Senate elections to give their preferred candidate an advantage. And as we've seen in the 2020 election, some can even try to award their electoral votes to their party of choice, even if it goes against the will of the voters in their states.⁵ 
+
+Ordinarily, a strong state legislature might serve as a blockade against such partisan behavior, with geographic and patriotic allegiances superseding partisan ones. Not anymore. The partisan legislature is here to stay, and here to play.
 
 
 ### Works Cited & Notes
@@ -32,6 +35,8 @@ This approach worked for a while, with the official nonpartisan nature of the bo
 ³ Smith, Mitch. ["Kansas Lawmakers Defect to Democrats as G.O.P. Struggles in Suburbs,"](https://www.nytimes.com/2019/01/22/us/kansas-republicans-turn-democrat.html) New York Times, 2019.
 
 ⁴ Masket, Seth, and Boris Shor. "Polarization without parties: Term limits and legislative partisanship in Nebraska’s Unicameral Legislature." _State Politics & Policy Quarterly_ 15, no. 1 (2015): 67-90.
+
+⁵ Pildes, Richard. ["There’s Still a Loaded Weapon Lying Around in Our Election System"](https://www.nytimes.com/2020/12/10/opinion/state-legislatures-electors-results.html), New York Times, 2020.
 
 
 
