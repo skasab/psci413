@@ -12,11 +12,11 @@ Daniel Hopkins, in his book _The Increasingly United States_, seeks to explain w
 
 It is this secondary tenet, that of voters becoming more partisan in casting their ballot, to which I draw attention. In particular, there has been an increasing connection between the presidential race and state legislative elections. For example, Steven Rogers finds that presidential popularity is directly correlated with the likelihood that members of the President’s party will get challengers in their elections, and indeed the percentage of the vote those challengers achieve.³ 
 
-Just looking at the 2017 & 2018 midterm results, we can see this fact bearing out in full force. Of the six state legislative chambers that flipped to the Democrats, all were in states that Hillary Clinton won in 2016. Furthermore, all seven chambers where Democrats established new supermajorities were in Clinton states.⁵
+Just looking at the 2017 & 2018 midterm results, we can see this fact bearing out in full force. Of the six state legislative chambers that flipped to the Democrats, all were in states that Hillary Clinton won in 2016. Furthermore, all seven chambers where Democrats established new supermajorities were in Clinton states.⁴
 
 To explore this phenomenon of nationalized voting behavior, I acquired a dataset of state legislative elections in 2017 / 2018, and the results of the Presidential race in their districts in 2016. The specifics of the construction of this data can be found in the **Methodology** tab.
 
-To that end, in 2017 and 2018, 61% of state legislative candidates ran between 5% behind and 5% ahead of the margin of their Presidential counterparts, and a full 87% ran between 10% behind and 10% ahead. 2018 was a high-water mark for this type of polarization, as the work of Zingher and Richman show.⁴ 
+To that end, in 2017 and 2018, 61% of state legislative candidates ran between 5% behind and 5% ahead of the margin of their Presidential counterparts, and a full 87% ran between 10% behind and 10% ahead. 2018 was a high-water mark for this type of polarization, as the work of Zingher and Richman show.⁵ 
 
 But lurking within that 87% number is an implicit 13% – what happened with these other candidates? How did they manage to do so well or so poorly in comparison to their Presidential standard bearers? Is it the work of individual popularity or scandal? Delays in geographic or partisan realignments? Indeed, they are the **Exceptions** to the rule. 
 
@@ -29,8 +29,8 @@ But lurking within that 87% number is an implicit 13% – what happened with the
 
 ³ Rogers, Steven. "National forces in state legislative elections." _The ANNALS of the American Academy of Political and Social Science_ 667, no. 1 (2016): pg. 220
 
-⁴ Zingher, Joshua N., and Jesse Richman. "Polarization and the nationalization of state legislative elections." _American Politics Research_ 47, no. 5 (2019): 1036-1054.
+⁴ Ballotpedia, [2018 State Legislative Elections.](https://ballotpedia.org/State_legislative_elections,_2018)
 
-⁵ Ballotpedia, [2018 State Legislative Elections.](https://ballotpedia.org/State_legislative_elections,_2018)
+⁵ Zingher, Joshua N., and Jesse Richman. "Polarization and the nationalization of state legislative elections." _American Politics Research_ 47, no. 5 (2019): 1036-1054.
 
 
