@@ -16,13 +16,13 @@ I then removed districts with the following characteristics:
 - Any district that elected more than one representative³ 
 - Special elections for unexpired terms 
 
-Then I calculated the percentage of the total vote that each state legislative and Presidential candidate received. Third party voters were included in the total tallies, but districts with significant third party shares in legislative elections, or the Presidential election (such as Utah or New Mexico 2016) were signified with another variable to be removed in later analysis.
+Then I calculated the percentage of the total vote that each state legislative and Presidential candidate received. Third-party voters were included in the total tallies, but districts with significant third party shares in legislative elections, or the Presidential election (such as Utah or New Mexico 2016) were signified with another variable to be removed in later analysis.
 
 Finally, I calculated the overperformance of state legislative candidates compared to the result of their Presidential standard bearer in the district. A positive value means they got a higher share of the vote than their Presidential candidate in the district, while a negative value means they got a lower share. 
 
 All subsequent graphs / tables are drawn from these last two values, that of Democratic and Republican state legislative over/under performance. 
 
-All together, the final dataset consists of 3,385 contested state legislative elections across 46 states, and the electoral fates of their 6,770 state legislative candidates.
+Altogether, the final dataset consists of 3,385 contested state legislative elections across 46 states, and the electoral fates of their 6,770 state legislative candidates.
 
 ### Works Cited & Notes
 
