@@ -10,7 +10,7 @@ Although we've observed two legislators who are **Exceptions** to the trend of s
 
 Hopkins argues that the nationalization of our politics has "the potential to dampen the electoral connection between voters and officials" and "foster polarization and gridlock in federal policy making."¹ At the state legislative level, this is no different. 
 
-With many voters unable to or unwilling to pay attention to state politics, they can unknowingly approve with their nationalized vote an influx of legislators that is overly partisan, incompetent, or both -- with little room for recourse. This can lead to some intriguing results.
+With many voters unable or unwilling to pay attention to state politics, they can unknowingly approve with their nationalized vote an influx of legislators that is overly partisan, incompetent, or both -- with little room for recourse. This can lead to some intriguing results.
 
 In terms of fascinating electoral outcomes, one consequence of the nationalization of state legislatures is the unique quasi-three-party system that has cropped up in Kansas recently: conservative Republicans, moderate Republicans, and moderate Democrats, with any two factions teaming up to overwhelm the third.² However, even that opportunity for cross-partisan efforts in Kansas has dwindled recently: in 2018, 4 moderate Republicans in Clinton-won districts announced they were becoming Democrats.³ And then in 2020, many of the remaining moderate Republicans were successfully primaried by conservative challengers.²
 
