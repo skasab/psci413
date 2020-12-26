@@ -27,9 +27,7 @@ For Rep. Petit, a key finding for Republicans -- who also are consistently engag
 
 Where could we go from here? The marching tide of polarization has trickled down to the state legislatures, despite some high-profile **Exceptions** that I've highlighted. Some argue that the way forward, to cut through polarization, is through reform at the state level -- such as sending voters sample ballots and information pamphlets.¹ Others offer that the bully pulpit of the Presidency could be wielded to the maximum effect in these elections order to minimize partisan gridlock.² In effect, accelerating polarization in order to actually get to true governing, albeit in a nationalized context.
 
-It's easy to dismiss the polarization of state legislatures as irreversible and all-encompassing, and to remain despondent about the future of our country. But in the world of politics, nothing is forever -- where is the Whig Party or the Solid South? Tip O'Neill's maxim that "all politics is local" may not apply anymore, but we haven't reached "all politics is national" yet. The tales of Del. Boggs and Rep. Petit, and their recent electoral successes, demonstrate that.
-
- We're certainly in the throes of a turbulent era of polarization, but _this too, shall pass._
+It's easy to dismiss the polarization of state legislatures as irreversible and all-encompassing, and to remain despondent about the future of our country. But in the world of politics, nothing is forever -- where is the Whig Party or the Solid South? The tales of Del. Boggs and Rep. Petit, and their recent electoral successes, demonstrate that there is still a path forward. Tip O'Neill's maxim that "all politics is local" may not apply anymore, but we haven't reached "all politics is national" yet either. 
 
 ### Works Cited & Notes
 

@@ -7,7 +7,7 @@ filename: methodology
 # Methodology
 ### Construction of Dataset
 
-The data was acquired in two parts. The first part consists of a dataset that tracked the 2017 and 2018 state legislative elections in districts all across the country, sourced from Dr. Carl Klarner’s master dataset of state legislative election returns.¹ The second part consists of data compiled by DailyKos which tracks the results of the 2016 Presidential election in each of the state legislative districts across the country.²
+The data was acquired in two parts. The first part consists of a dataset that tracked the 2017 and 2018 state legislative elections in districts all across the country, sourced from Dr. Carl Klarner’s master dataset of state legislative election returns.¹ The second part consists of data compiled by DailyKos which tracks the results of the 2016 Presidential election in every state legislative district across the country.²
 
 After piecing together many Google Sheets, I merged the data in R such that each row represented a state legislative election (2017 / 2018) as well as the Presidential election in that district (2016). 
 
@@ -16,7 +16,7 @@ I then removed districts with the following characteristics:
 - Any district that elected more than one representative³ 
 - Special elections for unexpired terms 
 
-Then I calculated the percentage of the total vote that each state legislative and Presidential candidate received. Third party voters were included in the total tallies, but districts with significant third party shares in legislative elections, or Presidential election (such as Utah or New Mexico 2016) were signified with another variable. 
+Then I calculated the percentage of the total vote that each state legislative and Presidential candidate received. Third party voters were included in the total tallies, but districts with significant third party shares in legislative elections, or the Presidential election (such as Utah or New Mexico 2016) were signified with another variable. 
 
 Finally, I calculated the overperformance of state legislative candidates compared to the result of their Presidential standard bearer in the district. A positive value means they got a higher share of the vote than their Presidential candidate in the district, while a negative value means they got a lower share. 
 

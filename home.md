@@ -8,7 +8,7 @@ filename: home
 
 Hello, and welcome to my final project for PSCI 413 in Fall 2020 semester. 
 
-On this website, you'll find the constituent parts of my project. Together, they tell a story about nationalization and polarization at the state legislative level. 
+On this website, you'll find the constituent parts of my project, which combine to explore the new phenomenon of nationalization and polarization at the state legislative level. 
 
 Together, six pages tell the story:
 

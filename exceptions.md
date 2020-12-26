@@ -6,6 +6,8 @@ filename: exceptions
 
 # Exceptions
 
+#add
+
 To begin, the following table shows summary statistics from the distributions of both party's state legislative candidate overperformances: 
 
 Party | Min | Median | Mean | Max
