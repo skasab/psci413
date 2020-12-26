@@ -1,9 +1,3 @@
----
-title: Home
-layout: default
-filename: home
---- 
-
 ## Welcome!
 
 Hello, and welcome to my final project for PSCI 413 in Fall 2020. 
