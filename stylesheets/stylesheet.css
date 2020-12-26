@@ -5,6 +5,7 @@
     color: rgba(255, 255, 255, 0.7);
     background-color: rgba(255, 255, 255, 0.08);
     border-color: rgba(255, 255, 255, 0.2);
+    text-decoration: initial;
     border-style: solid;
     border-width: 1px;
     border-radius: 0.3rem;
