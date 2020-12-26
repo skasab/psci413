@@ -16,8 +16,8 @@ In **Case Study Two**, we looked at Representative William Petit of Connecticut,
 
 Not coincidentally, both men were the most overperforming candidate of their party in their state. See the following dot plots:
 
-![WV Dot](wvDotPlot2.png)
-![CT Dot](ctDotPlot2.png)
+![WV Dot](images/wvDotPlot2.png)
+![CT Dot](images/ctDotPlot2.png)
 
 Indeed, the great electoral performances of these two legislators can give us some insight into how both parties can cut through the tide of polarization at the state legislative level.
 

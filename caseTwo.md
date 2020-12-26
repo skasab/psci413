@@ -10,7 +10,7 @@ In Hartford County, Connecticut, lies the town of Plainville. A population of ap
 
 The 22nd District in the Connecticut House of Representatives consists of the entirety of Plainville, plus a small slice of New Britain. From 1995 to 2017, the district was represented by Rep. Betty Boukus, an 11-term Democrat from Plainville. But in 2016, as Hillary Clinton edged out a narrow 3% victory in the 22nd District, Rep. Boukus was defeated for re-election by a whopping 20 points to a first-time candidate, Dr. William Petit. 
 
-![Petit 2016](williamPetitMap2.jpg)
+![Petit 2016](images/williamPetitMap2.jpg)
 
 From winning re-election in 2014 by 20% to losing it in 2016 by 20%, one's first thought might be that Rep. Boukus got ensnared in a scandal -- campaign finance violations or a gaffe on a hot mic. But none of that happened. By all accounts, the race was cordial: "[Rep. Boukus] said Petit ran a fair race, then hugged him, and [said] that once Petit takes office, 'he will become my state representative.'"² 
 

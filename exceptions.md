@@ -6,7 +6,7 @@ filename: exceptions
 
 # Exceptions
 
-Building off the measures introduced in **Methodology** tab, the following table shows some summary statistics from both party's state legislative candidate overperformances: 
+Building off the measures introduced in the **Methodology** tab, the following table shows some summary statistics from both party's state legislative candidate overperformances: 
 
 Party | Min | Median | Mean | Max
 --- | ---|---|---|---|
@@ -15,9 +15,9 @@ Democratic| -3%|4%|5%|48%
 
 Interestingly, both the mean and median of both party's distributions are positive, indicating that on average, a state legislative candidate will outrun their Presidential standard bearer, if just by a little bit.
 
-And picking up from the **Introduction** tab, in evaluating the 13% of state legislative candidates who ran 10% ahead of or behind their party, it is useful to distinguish between Democrats and Republicans. Does one party run ahead of or behind their Presidential candidate more often in the aggregate? The 2018 answer it turns out, is yes. The following density plot shows state legislative over / under performance, shaded by party, with lines to represent the 10% thresholds:
+And picking up from the **Introduction** tab, in evaluating the 13% of state legislative candidates who ran 10% ahead of or behind their party, it is useful to distinguish between Democrats and Republicans. Does one party run ahead of or behind their Presidential candidate more often in the aggregate? The answer in 2018, it turns out, is yes. The following density plot shows state legislative over / under performance, shaded by party, with lines to represent the 10% thresholds:
 
-![Density Plot of Ds and Rs](densityPlotWithLines2.png)
+![Density Plot of Ds and Rs](images/densityPlotWithLines2.png)
 
 As one can see from the plot, a greater proportion of Republicans fall within the 10% gates than Democrats. To be exact, 83% of Democrats fall within the 10% limits vs. 91% of Republicans. And of those 17% of Democrats that don't fall within those limits, as the graph shows, 96% had an overperformance greater than 10% over Hillary Clinton, while just 4% were big underperformers. Meanwhile, of the 9% of Republicans who did better or worse than 10%, only 48% were overperformers, with the other 52% performing more than 10 points worse than Donald Trump.
 

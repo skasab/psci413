@@ -14,7 +14,7 @@ Amazingly, in 2016, as Donald Trump cruised to a landslide 70% - 26% victory in 
 
 And again, in 2020, as Trump secured another huge 73% - 26% victory in the district, Boggs crushed his Republican opponent 76.4% - 23.6%.² Although monocolored, the following map displays his significant electoral prowess in this age of polarization:³
 
-![Brent Boggs 2020](brentBoggsMap.jpeg)
+![Brent Boggs 2020](images/brentBoggsMap.jpeg)
 
 It may not come as a surprise to scholars of state politics that Boggs is not a cookie-cutter liberal Democrat. Socially conservative, Boggs has been endorsed by the NRA (with a 100% score) and West Virginians for Life (with an 87% score). However, that social conservatism belies strong labor support. In union, labor, and worker's issues, Boggs is aligned with the bread-and-butter of the Democratic Party, receiving various union endorsements such as the WV AFL-CIO (with an 89% score) and the International Brotherhood of Teamsters.⁴
 
