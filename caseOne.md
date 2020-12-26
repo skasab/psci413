@@ -10,7 +10,7 @@ In the heart of West Virginia lies Braxton County, a small county with a populat
 
 The 34th District in the West Virginia House of Delegates is composed of the entirety of Braxton County and a small slice of neighboring Gilmer County. And for the past 24 years, Democrat Brent Boggs has filled the seat, four of them as House Majority leader from 2009 - 2013.
 
-Amazingly, in 2016, as Donald Trump cruised to a landslide 70%-26% victory in District 34, Delegate Boggs ran unopposed. Then, in 2018, he beat back a Republican challenger 74%-26%. Indeed, in 2018, Boggs was the Democratic state legislative candidate who overperformed Hillary Clinton the most -- a whopping 48% improvement over her vote share!  
+Amazingly, in 2016, as Donald Trump cruised to a landslide 70%-26% victory in District 34, Delegate Boggs ran unopposed. Then, in 2018, he beat back a Republican challenger 74%-26%. Indeed, in 2018, Boggs was the Democratic state legislative candidate who overperformed Hillary Clinton the most -- a whopping 48% improvement over her vote share! 
 
 And again, in 2020, as Trump secured another huge 72.5% victory in the district, Boggs crushed his Republican opponent 76.4% - 23.6%.² Although monocolored, the following map displays his significant electoral prowess in this age of polarization:³
 
@@ -22,9 +22,9 @@ A railroad workers' union leader before entering politics, Boggs described himse
 
 **"[I'm] not your typical Democrat. I'm endorsed by the National Rifle Association and West Virginia Farm Bureau and I'm fiscally and morally conservative, reflecting the views of working people in my district. My votes are very much in tune with the needs and wants of working families, most of whom are just one serious accident or illness away from economic devastation."⁵**
 
-Bogg's overwhelming 2020 victory came as Democrats simultaneously lost 18 seats in the House of Delegates, reducing themselves to a superminority of 24 out of 100.⁶ 
+Bogg's overwhelming 2020 victory came as Democrats simultaneously lost 18 seats in the West Virginia House of Delegates, reducing themselves to a superminority of 24 out of 100.⁶ 
 
-This can be seen as one part of an increasing "downballot realignment" across the US. For example, West Virginia's longtime state treasurer John Perdue -- a Democrat elected for six terms, all with large margins --  lost his bid for a seventh term by 13% to his Republican challenger this year.⁷
+This can be seen as one part of an increasing "downballot realignment" across the US. For example, West Virginia's longtime state treasurer John Perdue -- a Democrat elected for six terms, all with large margins -- lost his bid for a seventh term by 13% to his Republican challenger this year.⁷
 
 So how did Delegate Boggs escape the fate of Treasurer Perdue? The classic formula applies: combining strong union support with social conservatism can be a winning combination in these sorts of districts. 
 

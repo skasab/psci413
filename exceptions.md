@@ -22,12 +22,12 @@ And picking up from the **Introduction** tab, in evaluating the 13% of state leg
 
 As one can see from the plot, a greater proportion of Republicans fall within the 10% gates than Democrats. To be exact, 83% of Democrats fall within the 10% limits vs. 91% of Republicans. And of those 17% of Democrats that don't fall within those limits, as the graph shows, 96% had an overperformance greater than 10% over Hillary Clinton, while just 4% were big underperformers. And of the 9% of Republicans who did better or worse than 10%, only 48% were overperformers, with the other 52% performing more than 10 points worse than Donald Trump.
 
-All together, we can see that a state legislative candidate's over or under performance is indeed affected by party, with Democratic state legislative candidates overperforming on average more than their Republican counterparts. What could be the cause?
+All together, we can see that a state legislative candidate's over or under performance is indeed affected by party, with Democratic state legislative candidates overperforming on average more than their Republican counterparts.¹ What could be the cause?
 
 Digging a little further into the distribution of the 17% of Democrats who were big over/underperformers among state legislative candidates yields another valuable source of stratification. It turns out that the vast majority of Democratic overperformers are in states won by Donald Trump, and conversely, the vast majority of underperformers are in states won by Hillary Clinton. The following table summarizes this observation:
 
 
-2016 Winner Statewide¹ | Performance vs. Hillary Clinton| Count | Percentage
+2016 Winner Statewide² | Performance vs. Hillary Clinton| Count | Percentage
 --- | ---|---|---|
 Trump | > 10% Overperform |358|0.70
 Clinton | > 10% Overperform |155|0.30
@@ -45,4 +45,6 @@ In **Case Study Two**, we'll examine the second case, that of Republican who man
 
 Information on data collection can be found in the **Methodology** tab.
 
-¹ Maine split its electoral votes 3-1, but it is counted here as a Clinton state as she won statewide. 
+¹ An important caveat to this statistic is that 2017 & 2018 were good years for Democratic candidates -- the "blue wave." 
+
+² Maine split its electoral votes 3-1, but it is counted here as a Clinton state as she won statewide. 
